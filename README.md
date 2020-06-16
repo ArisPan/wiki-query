@@ -1,1 +1,1 @@
-# wiki-query
+# Wiki Query
