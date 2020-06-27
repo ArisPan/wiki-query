@@ -1,4 +1,5 @@
 # Wiki Query
+A desktop application that searches through a set of Wikipedia articles using Apache Lucene.\
 Appropriate documentation will follow. For now, this README will consist of a brainstormed to-do list.
 
 ## To Do
