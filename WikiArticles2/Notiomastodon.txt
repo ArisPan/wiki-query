@@ -1,0 +1,28 @@
+Notiomastodon is an extinct proboscidean genus of gomphotheres (a distant relative to modern elephants) endemic to South America from the Pleistocene to the Holocene. It was among the last known gomphotheres and one of two South American gomphotheres alongside Cuvieronius and was the predominant gomphothere on the continent ranging widely over most of South America excluding the High Andes. The species has a long and convoluted taxonomic history due to its morphological variability and confusion with related gomphothere taxa, which was only resolved during the 2010's.
+
+Taxonomy
+Proboscideans in South America were first described by Georges Cuvier in 1806, but he failed to give them specific names beyond "Mastodon".  Fischer in 1814 assigned the “mastodonte des cordillères” specimen the first specific name "Mastotherium hyodon". In 1824, Cuvier classified the fossils of "Mastodon andium" as the "mastodonte des cordillères" specimen, and  "Mastodon humboldtii" to the "mastodonte humboldien". Due to the Principle of Priority, this meant that "Mastodon andium" was invalid, as "Mastotherium hyodon" was named first from the same specimen. Today, neither tooth is considered diagnostic to any specific taxon.Notiomastodon, "southern mastodon" was named by Cabrera (1929). It was assigned to the Gomphotheriidae by Carroll (1988).
+For centuries, the taxonomy of gomphotheres, including Notiomastodon had been subject to debate, with many generic and specific names for similar South American gomphotheres. The species is currently under dispute, whether it should belong to Notiomastodon or Stegomastodon as regardless of genus, the species is considered synonymous with Haplomastodon by most authors, as the specimens were not considered morphologically distinct from this species. This article treats Notiomastodon separately because in phylogenetic analyses, Notiomastodon/Stegomastodon platensis specimens are not sister taxa, which would make the genus polyphyletic. However, some authors think this is inconclusive, as they think the North American Stegomastodon material is too scarce and fragmentary to make a definitive statement.
+
+Evolution
+Notiomastodon belongs to the family Gomphotheriidae, a group of animals distantly related to modern elephants and mammoths. Notiomastodon seems to have had a 4-million-year-long ghost lineage, diverging from the clade that contains Rhynchotherium and Cuvieronius around the Late Miocene. This would imply that Notiomastodon had been evolving in southern Central America, where the fossils are poorly sampled, prior to its migration into South America during the Pliocene or Pleistocene. Gomphotheres arrived in South America after the formation of the Isthmus of Panama as part of the Great American Biotic Interchange, alongside many other taxa from North America. The oldest known record of gomphotheres in South America is a fragmentary vertebra from the Earliest Pleistocene (~2.5 Ma) Uquia Formation of Argentina The oldest known remains definitively attributable to Notiomastodon are known from the late Early Pleistocene (1.2-0.8 ma) from the Rio de la Plata, also in Argentina, consisting of a pair of tusks and other associated remains. A 2019 study using collagen sequencing found Notiomastodon closer to Mammut than to extant elephants, though how this effects gomphothere phylogeny is unclear.
+
+Phylogeny
+The phylogenetic position among trilophodont gomphotheres according to Mothé et al., 2016 is:
+
+Description
+Among many other specimens, N. platensis is known from MECN 82, a 35-year-old male that would be around 2.52 m (8 ft 3 in) tall, with an estimated weight of 4.4 tonnes (4.3 long tons; 4.9 short tons). It had two tusks (one on either side of its trunk), like other members of the Gomphotheriidae, and none on the lower jaw, as with other brevirostrine gomphotheres. Unlike close relative Cuvieronius, its tusks were not twisted, but their length and shape are observed as greatly variable depending on the individual, as is morphology more generally
+
+Paleobiogeography
+Notiomastodon has been described as the 'lowland gomphothere'. The genus tended to inhabit seasonally dry, open forests, with a range lining most of the South American coastline and lowland interior, bar the Guiana Shield, with particularly large concentrations along the coast of Peru and in northeastern Brazil. In contrast, the other representative of South American gomphotheres, Cuvieronius, inhabited the mountainous Andes region from Ecuador to southern Peru and Bolivia, as well as lowland areas in north-east Peru.The diet composition of Notiomastodon varied widely depending on location, but probably primarily consisted of a mix of C3 shrubs and C4 grasses, whilst also serving as a primary disperser of the seeds for a variety of different plant species.
+
+Behaviour
+Notiomastodon was probably similar in population structure and behaviour to extant elephants.
+
+Extinction
+In 2019, a young specimen from Brazil was described with artifact embedded into its skull suggesting human hunting played a role in its extinction.
+
+Notes
+
+
+== References ==

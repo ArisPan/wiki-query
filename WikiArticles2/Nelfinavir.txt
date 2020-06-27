@@ -1,0 +1,42 @@
+Nelfinavir (NFV; brand name Viracept) is an antiretroviral drug used in the treatment of the human immunodeficiency virus (HIV). Nelfinavir belongs to the class of drugs known as protease inhibitors (PIs) and like other PIs is almost always used in combination with other antiretroviral drugs. Nelfinavir has been shown to treat SARS-coronavirus, and is being tested to treat COVID-19.
+Nelfinavir is an orally bioavailable human immunodeficiency virus HIV-1 protease inhibitor (Ki=2nM) and is widely prescribed in combination with HIV reverse transcriptase inhibitors for the treatment of HIV infection.It was patented in 1992 and approved for medical use in 1997.
+
+Toxicity
+Common (>1%) side effects include insulin resistance, hyperglycemia and lipodystrophy.Nelfinavir can produce a range of adverse side effects. Flatulence, diarrhea or abdominal pain are common (i.e. experienced by more than one in one hundred patients). Fatigue, urination, rash, mouth ulcers or hepatitis are less frequent effects (experienced by one in one thousand to one in one hundred patients). Nephrolithiasis, arthralgia, leukopenia, pancreatitis or allergic reactions may occur, but are rare (less than one in one thousand patients) .
+
+Other bioactivity
+Antiviral
+Nelfinavir inhibits maturation and export of the Herpes Simplex 1 virus  and the Kaposi's Sarcoma virus.
+
+Potential anti-cancer activity
+Since 2009, nelfinavir has been under investigation for potential use as an anti-cancer agent. When applied to cancer cells in culture (in vitro), it can inhibit the growth of a variety of cancer types and can trigger cell death (apoptosis). When Nelfinavir was given to laboratory mice with tumors of the prostate or of the brain, it could suppress tumor growth in these animals. At the cellular level, nelfinavir exerts multiple effects to inhibit cancer growth; the two main ones appear to be inhibition of the Akt/PKB signaling pathway and activation of endoplasmic reticulum stress with subsequent unfolded protein response.In the United States, about three dozen clinical trials are being conducted (or have been completed) in order to determine whether nelfinavir is effective as a cancer therapeutic agent in humans. In some of these trials, nelfinavir is used alone in monotherapy fashion, whereas in others it is combined with other modes of cancer therapy, such as well-established chemotherapeutic agents or radiation therapy.
+As of April 2016, no phase 3 cancer trials are registered.
+
+Anti-virulence activity
+Nelfinavir and simple derivatives have been found to inhibit the production of the virulence factor streptolysin S, a cytolysin produced by the human pathogen Streptococcus pyogenes. Nelfinavir and these related molecules did not exhibit detectable antibiotic activity, but did also inhibit the production of other biologically active molecules, including plantazolicin (antibiotic), listeriolysin S (cytolysin), and clostridiolysin S (cytolysin), by other bacteria.
+
+Interactions
+Nelfinavir's interaction profile is similar to that of other protease inhibitors. Most interactions occur at the level of the Cytochrome P450 isozymes 3A4 and CYP2C19, by which nelfinavir is metabolised.
+
+Pharmacology
+Nelfinavir should be taken with food. Taking the drug with food decreases the risk of diarrhea as a side effect.
+
+Mechanism of action
+Nelfinavir is a protease inhibitor: it inhibits HIV-1 and HIV-2 proteases. HIV protease is an aspartate protease which splits viral protein molecules into smaller fragments, and it is vital to both the replication of the virus within the cell, and also to the release of mature viral particles from an infected cell. Nelfinavir is a competitive inhibitor (2 nM) which is designed to bind tightly and is not cleaved due to the presence of a hydroxyl group as opposed to a keto group in the middle amino acid residue mimic, which would be otherwise S-phenylcysteine. All protease inhibitors bind to the protease, the precise mode of binding determines how the molecule inhibits the protease. The way Nelfinavir binds the enzyme may be sufficiently unique to reduce cross-resistance between it and other PIs. Also, not all PIs inhibit both HIV-1 and HIV-2 proteases.
+
+History
+Nelfinavir was developed by Agouron Pharmaceuticals as part of a joint venture with Eli Lilly and Company. Agouron Pharmaceuticals was acquired by Warner Lambert in 1999 and is now a subsidiary of Pfizer. It is marketed in Europe by Hoffman-La Roche and elsewhere by ViiV Healthcare.
+The U.S. Food and Drug Administration (FDA) approved it for therapeutic use on March 14, 1997, making it the twelfth approved antiretroviral. The initial product launched proved to be the largest "biotech launch" in the history of the pharmaceutical industry, achieving first full year sales exceeding $US335M. Agouron's patent on the drug expired in 2014.
+On the 6 June 2007, both the Medicines and Healthcare products Regulatory Agency and the European Medicines Agency put out an alert requesting the recall of any of the drug in circulation, because some batches may have been contaminated with potentially cancer-causing chemicals.
+
+Synthesis
+See also
+HIV-1 protease
+Cremophor EL
+Castor oil
+Saquinavir (same perhydroisoquinoline core).
+
+References
+
+Pai, VB; Nahata, MC (March 1999). "Nelfinavir mesylate: a protease inhibitor". The Annals of Pharmacotherapy. 33 (3): 325–39. doi:10.1345/aph.18089. PMID 10200859.
+Bardsley-Elliot, A; Plosker, GL (March 2000). "Nelfinavir: an update on its use in HIV infection". Drugs. 59 (3): 581–620. doi:10.2165/00003495-200059030-00014. PMID 10776836.

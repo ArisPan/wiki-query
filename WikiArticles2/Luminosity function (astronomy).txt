@@ -1,0 +1,329 @@
+In astronomy, the luminosity function gives the number of stars or galaxies per luminosity interval. Luminosity functions are used to study the properties of large groups or classes of objects, such as the stars in clusters or the galaxies in the Local Group.
+Note that the term "function" is slightly misleading, and the luminosity function might better be described as a luminosity distribution.  Given a luminosity as input, the luminosity function essentially returns the abundance of objects with that luminosity (specifically, number density per luminosity interval).
+
+Schechter luminosity function
+The Schechter luminosity function provides a parametric description of the space density of galaxies as a function of their luminosity. The form of the function is
+
+  
+    
+      
+        n
+        (
+        L
+        )
+         
+        
+          d
+        
+        L
+        =
+        
+          ϕ
+          
+            ∗
+          
+        
+        
+          
+            (
+            
+              
+                L
+                
+                  L
+                  
+                    ∗
+                  
+                
+              
+            
+            )
+          
+          
+            α
+          
+        
+        
+          
+            e
+          
+          
+            −
+            L
+            
+              /
+            
+            
+              L
+              
+                ∗
+              
+            
+          
+        
+        
+          
+            
+              
+                d
+              
+              L
+            
+            
+              L
+              
+                ∗
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle n(L)\ \mathrm {d} L=\phi ^{*}\left({\frac {L}{L^{*}}}\right)^{\alpha }\mathrm {e} ^{-L/L^{*}}{\frac {\mathrm {d} L}{L^{*}}},}
+  where 
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+   is galaxy luminosity, and 
+  
+    
+      
+        
+          L
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle L^{*}}
+   is a characteristic galaxy luminosity where the power-law form of the function cuts off. The parameter 
+  
+    
+      
+        
+        
+        
+          ϕ
+          
+            ∗
+          
+        
+      
+    
+    {\displaystyle \,\!\phi ^{*}}
+   has units of number density and provides the normalization. The galaxy luminosity function may have different parameters for different populations and environments; it is not a universal function. One measurement from field galaxies is 
+  
+    
+      
+        α
+        =
+        −
+        1.25
+        ,
+         
+        
+          ϕ
+          
+            ∗
+          
+        
+        =
+        1.2
+        ×
+        
+          10
+          
+            −
+            2
+          
+        
+        
+          h
+          
+            3
+          
+        
+        
+          
+            M
+            p
+            c
+          
+          
+            −
+            3
+          
+        
+      
+    
+    {\displaystyle \alpha =-1.25,\ \phi ^{*}=1.2\times 10^{-2}h^{3}\mathrm {Mpc} ^{-3}}
+  .It is often more convenient to rewrite the Schechter function in terms of magnitudes, rather than luminosities.  In this case, the Schechter function becomes:
+
+  
+    
+      
+        n
+        (
+        M
+        )
+         
+        
+          d
+        
+        M
+        =
+        0.4
+         
+        ln
+        ⁡
+        10
+         
+        
+          ϕ
+          
+            ∗
+          
+        
+        [
+        
+          10
+          
+            0.4
+            (
+            
+              M
+              
+                ∗
+              
+            
+            −
+            M
+            )
+          
+        
+        
+          ]
+          
+            α
+            +
+            1
+          
+        
+        exp
+        ⁡
+        [
+        −
+        
+          10
+          
+            0.4
+            (
+            
+              M
+              
+                ∗
+              
+            
+            −
+            M
+            )
+          
+        
+        ]
+         
+        
+          d
+        
+        M
+        .
+      
+    
+    {\displaystyle n(M)\ \mathrm {d} M=0.4\ \ln 10\ \phi ^{*}[10^{0.4(M^{*}-M)}]^{\alpha +1}\exp[-10^{0.4(M^{*}-M)}]\ \mathrm {d} M.}
+  Note that because the magnitude system is logarithmic, the power law has logarithmic slope 
+  
+    
+      
+        α
+        +
+        1
+      
+    
+    {\displaystyle \alpha +1}
+  .  This is why a Schechter function with 
+  
+    
+      
+        α
+        =
+        −
+        1
+      
+    
+    {\displaystyle \alpha =-1}
+   is said to be flat.
+
+Integrals of the Schechter function
+Integrals of the Schechter function can be expressed via the incomplete gamma function
+
+  
+    
+      
+        
+          ∫
+          
+            a
+          
+          
+            b
+          
+        
+        
+          x
+          
+            α
+          
+        
+        
+          e
+          
+            −
+            x
+          
+        
+        
+          d
+        
+        x
+        =
+        Γ
+        (
+        α
+        +
+        1
+        ,
+        a
+        )
+        −
+        Γ
+        (
+        α
+        +
+        1
+        ,
+        b
+        )
+      
+    
+    {\displaystyle \int _{a}^{b}x^{\alpha }e^{-x}\mathrm {d} x=\Gamma (\alpha +1,a)-\Gamma (\alpha +1,b)}
+
+White dwarf luminosity function
+The white dwarf luminosity function (WDLF) gives the number of white dwarf stars with a given luminosity.  As this is determined by the rates at which these stars form and cool, it is of interest for the information it gives about the physics of white dwarf cooling and the age and history of the Galaxy.
+
+
+== References ==

@@ -1,0 +1,25 @@
+Kenneth H. Perlin is a professor in the Department of Computer Science at New York University, founding director of the Media Research Lab at NYU, director of the Future Reality Lab at NYU, and the Director of the Games for Learning Institute. His research interests include graphics, animation, multimedia, and science education. He developed or was involved with the development of techniques such as Perlin noise, hypertexture, real-time interactive character animation, and computer-user interfaces such as zooming user interfaces, stylus-based input (Quikwriting), and most recently, cheap, accurate multi-touch input devices. He is also the Chief Technology Advisor of ActorMachine, LLC.
+His invention of Perlin noise in 1985 has become a standard that is used in both computer graphics and movement.  The process of layering multiple transformed and colored layers of Perlin noise and derived forms of noise is used to create a wide variety of naturalistic and chaotic textures in computer graphics - it can be used to very realistically simulate clouds, grass, wood, stone, water, fire, and innumerable other textures.
+Perlin was founding director of the NYU Media Research Laboratory and also directed the NYU Center for Advanced Technology from 1994 to 2004. Perlin has served as the director of the Future Reality Lab since it was established in 2017, and leads a team of undergraduate and graduate students researching and developing new virtual reality and augmented realty experiences. He was the System Architect for computer generated animation at Mathematical Applications Group, Inc. 1979-1984, where he worked on Tron. He has served on the Board of Directors of the New York chapter of ACM SIGGRAPH, and currently serves on the Board of Directors of the New York Software Industry Association. Perlin received his Ph.D. in Computer Science from New York University, and a B.A. in theoretical mathematics from Harvard University.
+Perlin is an accomplished pianist and classical guitarist. He is fluent in French and Portuguese, and he is a vegan.
+
+Awards
+On August 11, 2008, Perlin received the Computer Graphics Achievement Award from ACM SIGGRAPH.
+In 2006, he received the Trapcode award for achievement in computer graphics research.
+In January 2004, he was the featured artist at the Whitney Museum of American Art.
+In 2002, he received the Mayor's Award for Excellence in Science and Technology and the Sokol award for outstanding Science faculty at NYU.
+In 1997, he won an Academy Award for Technical Achievement from the Academy of Motion Picture Arts and Sciences for his noise and turbulence procedural texturing techniques, which are widely used in feature films and television.
+In 1991, he received a Presidential Young Investigator Award from the National Science Foundation.
+
+See also
+Perlin noise
+Quikwriting
+
+External links
+Ken Perlin's NYU home page
+Ken Perlin's WebLog
+http://mrl.nyu.edu
+http://vlg.cs.nyu.edu/
+http://g4li.org
+https://frl.nyu.edu
+https://www.youtube.com/watch?v=4YnVhTyrYbo

@@ -1,0 +1,38 @@
+The ZAP Xebra was an electric car launched in May 2006 in the United States market by ZAP corporation. It is classified legally as a three-wheel motorcycle in some jurisdictions, and is available in both sedan (model SD) and pickup (model PK) truck variants. It has seat belts. It does not have regenerative braking. The PK pickup has a dump bed, with fold-down sides and tailgate, that allows easy access to the batteries, controller, motor, and charger. 
+The Xebra was phased out in 2009, and in 2013 the company was ordered to buy back all of the 2008 models that were sold and destroy them due to a failure to meet the braking requirements for a motorcycle.
+
+Characteristics
+The top speed of the Xebra is 36–40 mph (58–64 km/h), with a range of about 20–25 miles (32–40 km) with the standard batteries, or 40 miles (64 km) with the optional extended range batteries.
+The sedan version can carry up to five people. The listed cargo weight capacity for both the SD sedan and the PK pickup is 1000 lb (460 kg), although PK owners have carried more weight than that.An optional rooftop-mounted solar panel on the Xebra Xero variant allows for trickle solar charging, which should lengthen the range and life of the six traction batteries; it is also available as a roof over the PK pickup bed.
+The 2008 "version 6" all-steel-bodied version of the Xebra sedan is now in production.The Xebra is the first production vehicle to be imported from China to the USA, and one of the only city speed electric vehicles in production. It is available from licensed ZAP/Voltage Vehicle dealers. According to the owner and dealer reports, some of the early 2006 models had problems with the body work, DC-to-DC converters, controllers, or chargers. They were not properly waterproofed and would degrade and malfunction when wet. Newer models delivered in 2007 are waterproofed and these problems are resolved.
+More recent models have been greatly improved with many low-quality parts being eliminated in the new production facility. Some replacement parts, even on new vehicles, are hard to find. Most of these issues have been resolved with the building of and move to a modern high tech moving production line facility. The interruption in production and flow of parts has greatly improved.
+According to various news reports, over a hundred and fifty Xebras were sold in 2006. The PK became available in late 2006. According to ZAP 500 Xebra sedans and pickups were ordered by July 2007.
+
+Some details:
+
+Dimensions: 10 ft × 4.66 ft × 5.05 ft high (2.90 m × 1.42 m × 1.54 m high);
+Weight about 1800 lb
+Speed: Up to 40 mph (65 km/h) (limited by a governor)- 36 mph in practice,
+Range: Up to 40 miles (65 km). Typically 30 miles @ 20 mph (50 km @ 30 km/h), or 20 miles (32 km) in practice  with the standard batteries
+Seating: 4 (SD sedan) or 2 (PK pickup)
+Motor: 5 kW (6.7 hp) DC brushed Newer 2008 models have brushless DC motors.
+Batteries: six lead–acid sealed gel 12-volts deep-cycle traction batteries of about 100 ampere-hours (@20 h discharge) each (for a total of 72 volts) plus a 12-volts accessories battery. High-capacity batteries up to about 138 A·h are available as an option. Some dealers offer seven batteries for 84 volts. 2008 models are sold with 140 A·h absorbed glass mat batteries
+Classification: 3-wheel motorcycle
+Imported from China
+Brakes: 3-wheel disc brakes (no power assist, no ABS, no regenerative braking)
+Models: sedan SD, pickup truck PK, sedan SD Xero with solar panel on roof, and pickup truck PK Xero with solar panel over bed
+
+Recall
+In January 2013, Quingqi Group Motorcycle Co. announced it was recalling all Zap Xebra vehicles from 2008 to resolve a braking issue. The 2008 vehicles were recalled a second time in 2012 to fix the same problem, and, in 2013, the company was ordered by the National Highway Traffic Safety Administration to buy back the approximately 700 2008 models that were sold, and have them either destroyed or otherwise permanently disabled.
+
+See also
+Electric motorcycles and scooters
+List of motorized trikes
+
+References
+External links
+Zapworld.com
+Article at CNet
+Article at Business Week
+TTAC.com Xebra review
+"Electric Car Lets Family Save on Gas, with Flair" on NPR's All Things Considered, June 20, 2008

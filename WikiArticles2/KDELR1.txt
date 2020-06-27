@@ -1,0 +1,26 @@
+KDEL (Lys-Asp-Glu-Leu) endoplasmic reticulum protein retention receptor 1, also known as KDELR1, is a protein which in humans is encoded by the KDELR1 gene.
+
+Function
+Retention of resident soluble proteins in the lumen of the endoplasmic reticulum (ER) is achieved in both yeast and animal cells by their continual retrieval from the cis-Golgi or a pre-Golgi compartment. Sorting of these proteins is dependent on a C-terminal tetrapeptide signal, usually lys-asp-glu-leu (KDEL) in animal cells and his-asp-glu-leu (HDEL) in S. cerevisiae. This process is mediated by a receptor that recognizes and binds the tetrapeptide-containing protein and then returns it to the ER. In yeast, the sorting receptor is encoded by a single gene, ERD2, which is a seven-transmembrane protein. Unlike yeast, several human homologs of the ERD2 gene, constituting the KDEL receptor gene family, have been described. The protein encoded by this gene was the first member of the family to be identified, and it encodes a protein structurally and functionally similar to the yeast ERD2 gene product. The KDEL receptor mediates the retrieval of misfolded proteins between the ER and the Golgi apparatus. The KDEL receptor functions by binding to endoplasmic reticulum chaperones. These chaperones are recognized by the KDEL receptor in downstream compartments of the ER. Once bound, they are packaged into coat protein complex I vesicles for retrograde transport to the ER. In vitro studies in yeast have revealed that this receptor regulates membrane transport in the early stages of the secretory pathway from ER to the Golgi. An error or mutation in the KDEL receptor disturbs the ER quality control and diseases associated with ER stress are observed.
+
+Dilated cardiomyopathy
+KDEL receptors have been implicated in the development of dilated cardiomyopathy (DCM). To determine the relationship between KDEL receptor and dilated cardiomyopathy, transgenic mice with a point mutation (D193N) were made. The mice expressing the transport mutant D193N gene grew normally until they reached adulthood. The mutant KDEL receptor did not function after 14 weeks of age, and these mice developed DCM. They were observed to have dilated heart chambers, as well as higher heart-to-body ratios with enlarged hearts, and the cardiac myocytes were larger in size. No difference was observed in arterial blood pressure between wild-type and mutant mice, thus cardiomegaly was not attributed to hypertension. Upon analysis, it was found that KDEL mutant mice had proliferation in their sarcoplasmic reticulum (SR) and a narrowing in the transverse tubule compared to the wild-type and controls. Moreover, aggregations of degenerative membrane proteins were observed in the expanded SR. This suggests that the mutant KDEL receptor leads to impaired recycling and quality control of the ER, which leads to aggregation of misfolded proteins in the ER. Furthermore, KDEL D193N transgenic mice had defects in the L-type Ca++ channel current in ventricular myocytes. The basal current of these channels was significantly lower than the controls.  L-type channels expression was lower in the plasma membrane of the KDEL D193N heart cells due to the narrowing of transverse tubules.  BiP, a chaperone protein, was unevenly distributed and synthesized in larger proportion in the transgenic mutant mice, which suggests that there was an increase in concentration of misfolded proteins.
+They also observed aggregates of the ubiquitin-proteasome system (a degradation system); this suggests that there was saturation of the system due to the high levels of misfolded proteins that lead to impaired ER quality control. The researchers concluded that hyperubiquitination and saturation of the proteasome system results due to the accumulation of misfolded protein, which induces stress. The accumulation of misfolded proteins induced by ER stress has also been observed in human DCM. A murine DCM study found an increase in apoptosis due to the high levels of CHOP expression.  CHOP is  a transcription factor that is elevated during ER stress and causes apoptosis of cells during the process of an unfolded protein response. Increase pressure load/mechanical stress in KDEL D193N mice caused an even greater synthesis of BiP, CHOP and other proteins that are biomarkers of cellular stress and ER stress as the capacity of the ER to deal with this is very limited.
+
+Lymphopenia
+KDELR1 is also critical for the development of lymphocytes. Mice with a Y158C missense mutation in Kdelr1 have reduced numbers of B and T lymphocytes, and a more susceptible to viral infection.
+
+Interactions
+KDELR1 has been shown to interact with ARFGAP1.
+
+Structure
+The structure of Gallus gallus KDELR2 (Uniprot Q5ZKX9) has been solved in the Apo state, KDEL peptide-bound state, and bound to a synthetic nanobody. Sequence identity between human KDELR1 and chicken KDELR2 is 84.4%.
+
+See also
+KDELR2
+KDELR3
+
+References
+
+
+== Further reading ==

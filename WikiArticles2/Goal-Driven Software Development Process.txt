@@ -1,0 +1,53 @@
+Goal-Driven Software Development Process (GDP) is an iterative and incremental software development technique. Although similar to other modern process models, GDP is primarily focusing on identifying goals before setting the requirements and explicitly utilizing the bottom-up design approach.
+The following sections are based on the paper Goal-Driven Software Development  where the GDP concept was introduced.
+
+Justification
+The first argument to embrace the GDP principles is the aspect of requirements. When developing software, the strong concentration on requirements (e.g. typical for the waterfall model) causes excessive costs and reduced quality of the outcome, mainly due to the following reasons:
+Requirements are usually not identical with business objectives because of the author’s limited knowledge about technical possibilities and their costs – such requirements tend to include unnecessary expensive wishes while excluding technically simple features that would provide substantial benefit.
+Formalization of the supported business process during development usually reveals inconsistencies and gaps within that process which need to be compensated with changes to the process itself or to the role of the software system.The result of these two effects is usually a large number of change requests during and after development (entailing time and cost overruns), therefore user involvement is considered to be a critical project success factor.Secondly, while established software processes refine requirements down to an implementation, the Goal-driven Development Process recommends trying to find an optimal mapping between business objectives and capabilities of
+the technical platform in an iterative process, equally considering and adjusting business goals and technical aspects to come to an optimal, convergent solution.
+Goal-driven development process allows stakeholders to:
+Discover use cases that are tailored to the requirements according to business goals
+Establish a bridge between goals and IT architecture
+
+Key principles
+Collaborative goal identification
+As closely related to the Goal-Question-Metric paradigm, a top-level goal is defined as an informal description of what a stakeholder wants to change or improve in his business environment, decomposing itself to more specific sub-goals. Moreover, a set of questions is linked to every goal, which characterizes the way how software will be tested against defined goals after each iteration.
+Being this the key GDP principle, the collaborative identification of goals brings knowledge of users and software developers together. While goal definition is top-down driven, deciding, if a goal is feasible is bottom-up oriented.
+
+Top-down and bottom-up convergence
+For more information see Top-down and bottom-up design.While the top-down orientation supports a horizontal team organization, bottom-up approaches try to provide generalized components or services, leading to a better user satisfaction. The collaborative identification of goals introduced by GDP allows combining top-down with bottom-up aspects (“top-down thinking and bottom-up acting” ) to support artifacts consistency and allowing vertical team organization.
+
+Vertical team organization
+In contrast to horizontally organized project teams where programmers implement the solution specified by the modeling team, the vertical organization implied by the GDP requires skilled and qualified generalists. As stated by IBM Rational Unified Process, individual developers can and should take multiple roles on a project to avoid unnecessary communication overhead and conflicts.
+
+Roles and people
+Because of its vertical organization the GDP requires skilled generalists with the ability to fulfill many roles of the process:
+
+Programmers (responsible for top-down and bottom-up convergence)
+Business analysts (collaborate with the programmers during goal identification and later-on during testing)
+Software architects (keep an eye on the whole project)
+Project manager (assigns resources, keeps track of time and effort, creates a productive environment)
+Requirement engineer
+
+Minimizing project size
+According to GDP, another key to success in large projects is to minimize project size in all aspects, i.e. limit the number of goals and software artifacts like documents, requirement specifications, models, etc. but also to limit the number of staff, to avoid mutual waiting and the size of the code.
+Minimizing size leads to an increased maintainability and changeability of the system to business processes as they are the most likely factor to change in the future.
+
+Activities
+Every iteration starts with the identification of business goals and their priorities and ends with a running version of the software system corresponding to the selected goals.
+While incremental development of the software system is also done in other software processes, the scope of GDP iteration is extended to include a discussion of business objectives after each iteration as is believed the business objectives themselves mature with the availability of usable implementation.The core activities are:
+
+Identification and prioritization of goals (small groups of at most 5 people consisting of stakeholders and/or business analysts, and programmers)
+Vertical distribution of tasks (selected goals are assigned to groups of at most 4 programmers)
+Implementation and testing (implementation-driven tests during implementation, goal-driven tests at the end of each iteration)These activities can be also divided into six main steps:
+Group business requirements by goals
+Formalize goal-driven system behaviors inside processes
+Monitor advancement in the realization of the goals (optional)
+Assign responsibilities to participants of the processes
+Plug behaviors in the goal-driven architectural backbone and play
+Integrate application constraints of the actors
+
+References
+External links
+How to align IT to changes on a Goal-Driven Service Oriented Architecture using UML, MDA and BMM
